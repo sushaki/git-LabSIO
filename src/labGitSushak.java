@@ -3,5 +3,9 @@ public class labGitSushak {
         int a = 3;
         int b = 8;
         System.out.println("a + b = " + a + b);
+
+        String tetra = "Tetra";
+
     }
+
 }
